@@ -46,7 +46,11 @@ The interactive dashboard (built in Power BI) provides:
 - KPI overview  
 - Best & worst-selling products  
 - Sales trends and distribution  
-- Category and size-level insights  
+- Category and size-level insights
+
+## 📊 Dashboard Preview
+
+![Pizza Sales Dashboard](PIZZA_SALES_ANALYSIS.png)
 
 ---
 
