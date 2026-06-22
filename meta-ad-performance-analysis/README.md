@@ -48,14 +48,6 @@ The project uses structured datasets representing different aspects of advertisi
 - DAX (Data Analysis Expressions)  
 - CSV / Excel  
 
----
-
-🎥 Demo Video
-
-(https://github.com/user-attachments/assets/63484f68-3ce8-47cb-8dc9-22eec40ba859)
-
----
-
 ## 📊 Dashboard Features
 
 ### KPI Metrics
@@ -136,12 +128,4 @@ README.md
 - Supports better audience targeting  
 - Improves marketing ROI through data insights  
 
----
-
-## 👩‍💻 Author
-
-Riddhi Bhorde  
-Aspiring Data Analyst  
-
-LinkedIn: https://www.linkedin.com/in/riddhi-bhorde-0b06002a9  
-GitHub: https://github.com/riddhi729  
+--- 
