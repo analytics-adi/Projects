@@ -1,4 +1,4 @@
-# Bank Loan Analysis Power BI Project
+# Bank Loan Analysis 
 
 Welcome to the Bank Loan Analysis Power BI project repository! This project aims to provide insightful analysis and visualization of bank loan data using Power BI.
 
@@ -54,13 +54,13 @@ The Details Dashboard streamlines access to critical loan data, facilitating inf
 You can find images of the dashboards in the `Output` directory of this repository.
 
 #### Summary Dashboard
-![Summary Dashboard](/Output/Summary.png)
+![Summary Dashboard](Output/Summary.png)
 
 #### Overview Dashboard
-![Overview Dashboard](/Output/Overview.png)
+![Overview Dashboard](Output/Overview.png)
 
 #### Details Dashboard
-![Details Dashboard](/Output/Details.png)
+![Details Dashboard](Output/Details.png)
 
 ### Contributing
 
